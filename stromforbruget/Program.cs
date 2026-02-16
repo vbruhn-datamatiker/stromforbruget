@@ -27,7 +27,7 @@
 
                 //Udskriver den totale pris pr. time
                 timePris = kWh[i] * price[i];
-                Console.WriteLine($"Den totale pris pr. time er: {timePris}");
+                Console.WriteLine($"Den totale pris pr. time er: {timePris} DKK");
 
             }
 
